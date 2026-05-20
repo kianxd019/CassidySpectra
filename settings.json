@@ -11,15 +11,15 @@
   "knownURL": "https://cassidyredux.onrender.com",
   "noFB": false,
   "PREFIX": "#",
-  "NICKNAME": "Cassidy Bot",
+  "NICKNAME": "Kenshin Cass",
   "CUSTOM_STYLE": {
     "enabled": false,
     "note": "When enabled, this will allow you to customize certain styles of bot responses. {word} represents non-emoji texts and {emojis} represents emojis. Change the TITLE_PATTERN to your likings.",
     "TITLE_PATTERN": "{emojis}【 {word} 】{emojis}"
   },
-  "LOGO": "",
-  "ADMINBOT": ["100075058221244", "YOUR_UID"],
-  "EXTRAPREFIX": ["_"],
+  "LOGO": "🍀",
+  "ADMINBOT": ["61552725337484"],
+  "EXTRAPREFIX": ["+"],
   "MODERATORBOT": [],
   "exitOnError": false,
   "WEB_PASSWORD": "liaSS-web",
@@ -66,8 +66,8 @@
     "note": "DO NOT MODIFY THIS IF YOU DO NOT KNOW WHAT YOU WERE DOING. They serve as .env keys for mongo uri."
   },
   "credentials": {
-    "email": "",
-    "password": "",
+    "email": "09709373733",
+    "password": "erenhiro019",
     "email_asEnvKey": false,
     "password_asEnvKey": false,
     "note": "This is for the bot account, not your main account, if email_asEnvKey or password_asEnvKey is true, it will use the .env key provided in email and password fields, this is helpful when hiding the credentials.",
